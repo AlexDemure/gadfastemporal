@@ -1,7 +1,6 @@
 import typing
 
 import temporalio.workflow
-
 from gadfastemporal import policies
 
 

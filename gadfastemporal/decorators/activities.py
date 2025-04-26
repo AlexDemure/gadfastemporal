@@ -1,8 +1,7 @@
 import typing
 
-from temporalio import activity as _activity
-
 from gadfastemporal import typings
+from temporalio import activity as _activity
 
 
 def activity(func: typings.Func) -> typings.Func:
