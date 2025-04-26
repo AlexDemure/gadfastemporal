@@ -8,7 +8,6 @@ import temporalio.client
 import temporalio.converter
 import temporalio.worker
 import temporalio.workflow
-
 from gadfastemporal import executors
 
 

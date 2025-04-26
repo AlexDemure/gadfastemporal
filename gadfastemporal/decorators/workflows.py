@@ -1,8 +1,7 @@
 import typing
 
-from temporalio import workflow as _workflow
-
 from gadfastemporal import typings
+from temporalio import workflow as _workflow
 
 
 def workflow(cls: typings.Class) -> typings.Class:

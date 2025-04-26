@@ -2,7 +2,6 @@ import datetime
 import typing
 
 import temporalio.common
-
 from gadfastemporal import enums
 
 

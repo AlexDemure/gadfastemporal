@@ -3,7 +3,6 @@ import json
 import typing
 
 import temporalio.client
-
 from gadfastemporal import policies
 from gadfastemporal.workflows import Workflow
 
